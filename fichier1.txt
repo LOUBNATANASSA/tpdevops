@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 587C-A6A4
+
+ R‚pertoire de C:\Users\LOUBNA\Desktop\app1
+
+04/03/2025  16:22    <DIR>          .
+04/03/2025  16:22    <DIR>          ..
+04/03/2025  16:22                 0 fichier1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  208.365.113.344 octets libres
